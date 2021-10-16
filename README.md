@@ -25,8 +25,8 @@ Please don't change the name of ```react-app-template``` folder, otherwise the s
 ## Database credentials
 Username    | Password
 ----------- | -----------
-root        | rstack
-rstack_pass | rstack_pass
+root        | rstack_pass
+rstack      | rstack_pass
 
 __Default database:__ `rstack_db`
 
